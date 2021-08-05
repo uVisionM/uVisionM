@@ -1,0 +1,5 @@
+- Hi, I’m @uVisionM
+- I’m currently learning JS
+- Aller Anfang ist schwer.
+- Wer ernten will, muss säen.
+- Jeder ist seines Glückes Schmeid.
