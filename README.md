@@ -1,2 +1,5 @@
 - Hi, I’m @uVisionM
+- Student of Mechatronics, Bialystok University of Technology
+- Future Engineer
+- Thesis: Smart home design based on automatic security systems for residents and their property.
 - I’m currently learning TypeScript/React
