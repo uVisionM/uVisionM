@@ -1,5 +1,2 @@
 - Hi, I’m @uVisionM
 - I’m currently learning TypeScript/React
-- Aller Anfang ist schwer.
-- Wer ernten will, muss säen.
-- Jeder ist seines Glückes Schmeid.
