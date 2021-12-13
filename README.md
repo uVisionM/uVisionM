@@ -3,3 +3,4 @@
 - Future Engineer
 - Thesis: Smart home design based on automatic security systems for residents and their property.
 - I’m currently learning TypeScript/React
+- TechStack: JS/TS, React, NextJS, Tailwind
